@@ -1,0 +1,8 @@
+.eslintrc.js
+jest.config.js
+/build/**
+/lib/**
+/dist/**
+/node_modules/**
+/doc
+/coverage
